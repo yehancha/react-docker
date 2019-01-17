@@ -4,7 +4,8 @@ This is the bare minimum of an app which uses React for development and Docker f
 
 ### Prerequisites
 
-
+* Docker installed [Docker Installation Guide](https://docs.docker.com/install/)
+* Node installed if you (probably) wish to run the app outside Docker.
 
 # Default React Documentation
 
