@@ -1,3 +1,13 @@
+This project is based on [https://medium.com/greedygame-engineering/so-you-want-to-dockerize-your-react-app-64fbbb74c217](https://medium.com/greedygame-engineering/so-you-want-to-dockerize-your-react-app-64fbbb74c217).
+
+This is the bare minimum of an app which uses React for development and Docker for deployment.
+
+### Prerequisites
+
+
+
+# Default React Documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
